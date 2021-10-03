@@ -14,7 +14,7 @@ This app allows you to enjoy the variety of different RGB colors.
 
 ### **Using Test app**
 
-To use TODOa, follow these steps:
+To use Test app, follow these steps:
 1. Launch the app.
 2. Just tap the screen to make the background color change!
 
